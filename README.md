@@ -1,2 +1,1 @@
-# devopsTest
-Test for Tekton
+# Test for ArgoCD
